@@ -1,8 +1,8 @@
 # Drag-ML
 
-This is Drag and Drop Application ,where you can just Drag and Drop the required Dataset and perform Exploratory Data Analysis ,visualize your Data and using many Machine learning models like KNN,Logistic Regression etc on the your desired Dataset.
-# To Run:
-# command streamlit run app.py 
+This is Drag and Drop Application ,where you can just Drag and Drop the required Dataset and perform Exploratory Data Analysis ,visualize your Data and using many Machine learning models like KNN,Logistic Regression etc on the your desired Dataset.A dataset Iris.csv is attached to it you can drag and drop any Dataset .
+# To Run: type in terminal in virtual environment
+streamlit run app.py 
 
 # Requirement:
 ->Python 3.6+
